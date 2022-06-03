@@ -1,6 +1,6 @@
 #!/bin/bash
-# Author: Jrohy
-# github: https://github.com/trojan-go-save
+# Author: Aaron
+# github: https://github.com/Catheringinx/trojan-go-save
 
 #定义操作变量, 0为否, 1为是
 HELP=0
